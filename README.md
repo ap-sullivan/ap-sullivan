@@ -1,4 +1,6 @@
-### Hi there 👋
+### Full Stack Web Developer
+### Scotland, UK
+### MERN stack | LAMP stack | React Native | Java/Kotlin  
 
 <!--
 **ap-sullivan/ap-sullivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
